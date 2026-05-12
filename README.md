@@ -73,7 +73,7 @@ Verificación de que los mensajes de log aparecen en consola con el formato
 configurado en logback-spring.xml (timestamp, nivel, logger, mensaje) al realizar
 operaciones sobre la API.
 
-![Checkpoint 1 - SLF4J en consola](evidencias/Checkpoint1-SLF4J.png)
+![Checkpoint 1 - SLF4J en consola](evidencias/Chekpoint1-SLF4J.png)
 
 ---
 
